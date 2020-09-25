@@ -1,0 +1,11 @@
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/socket2-37a548a15e67f31f.rmeta: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sockaddr.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/utils.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sys/unix.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/libsocket2-37a548a15e67f31f.rlib: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sockaddr.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/utils.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sys/unix.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/socket2-37a548a15e67f31f.d: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sockaddr.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/utils.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sys/unix.rs
+
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/lib.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sockaddr.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/socket.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/utils.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.15/src/sys/unix.rs:

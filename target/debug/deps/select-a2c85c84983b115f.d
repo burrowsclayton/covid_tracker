@@ -1,0 +1,11 @@
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/select-a2c85c84983b115f.rmeta: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/node.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/predicate.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/selection.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/libselect-a2c85c84983b115f.rlib: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/node.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/predicate.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/selection.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/select-a2c85c84983b115f.d: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/node.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/predicate.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/selection.rs
+
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/lib.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/node.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/predicate.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/selection.rs:

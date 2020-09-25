@@ -1,0 +1,9 @@
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/libproc_macro_hack-726ffe20e7291922.dylib: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/quote.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/error.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/iter.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/parse.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/proc_macro_hack-726ffe20e7291922.d: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/quote.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/error.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/iter.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/parse.rs
+
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/lib.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/quote.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/error.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/iter.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.18/src/parse.rs:

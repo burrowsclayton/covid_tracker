@@ -1,0 +1,11 @@
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/mio_uds-150519f05bc67b66.rmeta: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/libmio_uds-150519f05bc67b66.rlib: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/claytonburrows/Documents/Programing_and_Misc/Rust/covid_tracker/target/debug/deps/mio_uds-150519f05bc67b66.d: /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs:
+/Users/claytonburrows/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs:
